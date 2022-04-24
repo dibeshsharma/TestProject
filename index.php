@@ -23,7 +23,8 @@ Developer : Ashish Gurung
     include('home/home.php');
     include('footer.php');
     ?>
-    <h3> this is 3rd change</>
+
+    <h3> balen is the new king</h3>
     <h1> this is change </h1>
     <h1> this is  second change </h1>
     
