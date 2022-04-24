@@ -20,7 +20,7 @@ Developer : Ashish Gurung
     include('footer.php');
     ?>
 
-    <p>nishan</p>
+    <p>nishan rajmulik</p>
 </body>
 
 </html>
